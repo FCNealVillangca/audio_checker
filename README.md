@@ -1,1 +1,5 @@
-"# audio_checker" 
+- remove the git keep in src and dist folder
+- put the audio files in src folder
+- click the converter.exe or run converter.py if you have a python interpreter
+- the number of files will base on the last number so don't delete the dist folder just keep feeding audio in src folder
+- those left in src folder are rejected
